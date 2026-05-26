@@ -6,6 +6,13 @@
     "tag": "beta"
   },
   "sideEffects": false,
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.beta.md",
+    "CHANGELOG.stable.md"
+  ],
   "description": "React library for building modern communication user experiences utilizing Azure Communication Services",
   "keywords": [
     "Communication",
